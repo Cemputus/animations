@@ -16,4 +16,4 @@ function splitTextIntoSpans(target) {
     })
 }
 
-splitTextIntoSpans('.bubble-text')
+splitTextIntoSpans('.prototype')

@@ -31,7 +31,7 @@
     justify-content: center;
     border-radius: 2rem;
   }
-  .bubble-text {
+  .prototype {
     font-size: clamp(2rem, calc(2rem + 3.5vw), 8rem);
     color: hsl(0, 0%, 50%);
     user-select: none;
